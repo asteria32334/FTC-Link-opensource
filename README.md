@@ -8,12 +8,12 @@ FTC Link is an open-source plugin for Android Studio & IntelliJ IDEA developed b
 
 ---
 
-## 🔗 Installation & Usage
+## Installation & Usage
 
 To install and use FTC Link in your IDE:
 
 1. **Via JetBrains Marketplace (Recommended):**  
-   👉 [**Go to FTC Link on JetBrains Marketplace**](https://plugins.jetbrains.com/plugin/35570-ftc-link)
+    [**Go to FTC Link on JetBrains Marketplace**](https://plugins.jetbrains.com/plugin/35570-ftc-link)
 
 2. **Directly inside Android Studio / IntelliJ IDEA:**  
    Navigate to `Settings / Preferences` ➔ `Plugins` ➔ search for **"FTC Link"**, and click **Install**.
